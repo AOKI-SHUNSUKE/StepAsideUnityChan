@@ -5857,7 +5857,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   carPrefab: {fileID: 6417022106173412225, guid: c17a133974e9240c1919f84ca07eec14, type: 3}
-  coinPrefab: {fileID: 2753748030292188266, guid: 25a33bbb5103143c5abab0e22bd7b47e, type: 3}
+  coinPrefab: {fileID: 4809401037215380686, guid: 66acc4bded7114da397781a34f1b151d, type: 3}
   conePrefab: {fileID: 6562448404402492300, guid: 63eb6737d02954b39acad744caaa1605, type: 3}
 --- !u!4 &1096002173
 Transform:
